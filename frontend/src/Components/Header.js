@@ -19,7 +19,7 @@ const Navbar = () => {
   <input type="checkbox" id="nav-check"/>
   <div class="nav-header">
     <div class="nav-title">
-      PrashantBlog
+    Blog
     </div>
   </div>
   <div class="nav-btn">

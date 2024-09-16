@@ -94,7 +94,6 @@ const Card = ({ item }) => {
       ) : (
         <AiFillLike className="blog-post__like-button" onClick={likeHandler} />
       )}
-
     </div>
   );
 };
