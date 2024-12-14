@@ -51,3 +51,9 @@ Push to the branch (git push origin feature/your-feature).
 Open a pull request.
 License
 This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
+![image](https://github.com/user-attachments/assets/10609d31-664e-4009-88c1-0235303178d4)
+![image](https://github.com/user-attachments/assets/3ba85c0a-5247-4d9c-abe5-7ae93e9f646d)
+![image](https://github.com/user-attachments/assets/a1a0ce7c-eb1b-4c8f-8c96-494a49769d97)
+![image](https://github.com/user-attachments/assets/580c913a-2f4c-4dd5-bcac-1483a6c25846)
+![image](https://github.com/user-attachments/assets/839a36f1-fafb-4e0e-ab53-e6aea69f466c)
+
